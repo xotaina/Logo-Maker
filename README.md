@@ -12,6 +12,6 @@ The Application accepts user input, text or colour a hexadecimal number, and an 
 
 https://drive.google.com/file/d/1B8zMiRC-vConoLNJLMaiakw0qPa1H_Z9/view
 
-# Contributor
+# Credits
 
-Theresa and Taina
+Theresa and Tanisha
